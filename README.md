@@ -12,7 +12,8 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
     <img width="600" src="./imagens/banner.png">
 </p>
 
-<a href="https://web.dio.me/articles/eventos-sinteticos-o-que-todo-desenvolvedor-precisa-saber?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/eventos-sinteticos-o-que-todo-desenvolvedor-precisa-saber?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo align="center"</a>
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
