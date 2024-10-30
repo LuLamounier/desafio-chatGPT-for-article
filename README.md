@@ -1,5 +1,9 @@
 #  Projeto artigo técnico gerado por I.A.s
 
+<a href="https://web.dio.me/articles/eventos-sinteticos-o-que-todo-desenvolvedor-precisa-saber?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<p align="center">
+    <img width="600" src="./imagens/chat.png">
+</p>
 
  > **NOTE:** Este é o repositório para entrega do projeto do curso de chatGPT dado as aulas e instruções pelo professor Felipe Aguiar na plataforma da [DIO](https://dio.me).
 > 
@@ -29,16 +33,11 @@ ChatGPT：
 ## 🛠️ Ferramentas
 
 Lexica.art：
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas;
+- No léxica foi utilizado o acervo público de imagens geradas por outras pessoas;
   
 PowerPoint:
-- No léxica utilizamos o acervo público de imagens geradas por outras pess
+- No PowerPoint foi usado para ajustar e criar a capa para o artigo;
 
 chatGPT:
-- No léxica utilizamos o acervo público de imagens geradas por outras pess
-  
-
-## ✨ Features
-
 - Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
+  
